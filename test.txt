@@ -1,3 +1,6 @@
 hello world 
 git bash here !
 its awesome to use this...
+just add a new text
+then commit the change in gitbash
+and just push file to globally into github.
